@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Laalloo
 - 👀 I love roses
 - 🌱 I’m currently student on a college
-- 💞️ I’m looking to learn new stuff
+- 💞️ I’m looking to learn new stuff and I am interested in Web3
 
 
 <!---
